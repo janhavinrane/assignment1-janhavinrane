@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#Instructions for finder.sh:
 #Accepts the following runtime arguments: the first argument is a path to a directory on the filesystem, referred to below as filesdir; the second argument is a text string which will be searched within these files, referred to below as searchstr
 
 #Exits with return value 1 error and print statements if any of the parameters above were not specified

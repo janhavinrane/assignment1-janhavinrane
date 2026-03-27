@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#Instructions for writer.sh:
 #Accepts the following arguments: the first argument is a full path to a file (including filename) on the filesystem, referred to below as writefile; the second argument is a text string which will be written within this file, referred to below as writestr
 
 #Exits with value 1 error and print statements if any of the arguments above were not specified
